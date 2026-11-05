@@ -30,3 +30,7 @@ k8s-cert-expiry --all-namespaces --warn 30d --critical 7d --output table
 ## License
 
 MIT
+
+---
+
+Archived on 2026-11-05. The idea moved to [certcheck](https://github.com/moveeeax/certcheck/issues/15).
